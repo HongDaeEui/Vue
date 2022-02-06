@@ -15,4 +15,17 @@ import {
   faFolderOpen,
 } from "@fortawesome/free-solid-svg-icons";
 
-createApp(App).mount("#app");
+library.add(
+  faTimesCircle,
+  faCheckCircle,
+  faPenSquare,
+  faPlusCircle,
+  faTrash,
+  faFolderOpen
+);
+
+createApp(App)
+  .use(store, key)
+  .use(router)
+  .component("font-awesome-icon", FontAwesomeIcon)
+  .mount("#app");
