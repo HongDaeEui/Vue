@@ -5,4 +5,6 @@
 
 * todo-app
 
+* Nuxt.js
 
+* vue-select
