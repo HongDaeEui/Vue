@@ -8,3 +8,5 @@
 * Nuxt.js
 
 * vue-select
+
+* icon
