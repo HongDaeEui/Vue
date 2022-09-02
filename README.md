@@ -10,3 +10,5 @@
 * vue-select
 
 * icon
+
+* router
