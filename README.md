@@ -20,3 +20,5 @@
 * map
 
 * payment
+
+* store
