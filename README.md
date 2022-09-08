@@ -18,3 +18,5 @@
 * scroll
 
 * map
+
+* payment
