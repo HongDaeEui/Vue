@@ -24,3 +24,5 @@
 * store
 
 * array
+
+* canvas
