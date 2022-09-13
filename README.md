@@ -26,3 +26,5 @@
 * array
 
 * canvas
+
+* sidebar
