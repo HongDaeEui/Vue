@@ -30,3 +30,5 @@
 * sidebar
 
 * upload
+
+* gallery
